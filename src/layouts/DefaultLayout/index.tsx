@@ -1,6 +1,6 @@
 import { Header } from '../../components/Header'
 import { Outlet } from 'react-router-dom'
-import {LayoutContainer} from "./styles.ts";
+import { LayoutContainer } from './styles.ts'
 
 export function DefaultLayout() {
   return (
